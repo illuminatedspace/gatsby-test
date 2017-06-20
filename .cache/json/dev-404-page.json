@@ -1,0 +1,20 @@
+{
+    "data": {
+        "allSitePage": {
+            "totalCount": 2,
+            "edges": [
+                {
+                    "node": {
+                        "path": "/"
+                    }
+                },
+                {
+                    "node": {
+                        "path": "/my-second-gatsby-page/"
+                    }
+                }
+            ]
+        }
+    },
+    "pathContext": {}
+}

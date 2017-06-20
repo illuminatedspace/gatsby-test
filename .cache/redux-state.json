@@ -1,0 +1,257 @@
+{
+  "nodes": {
+    "SitePage /dev-404-page/": {
+      "component": "/home/liz/Documents/gatsby-test/.cache/dev-404-page.js",
+      "path": "/dev-404-page/",
+      "componentChunkName": "page-component---cache-dev-404-page-js",
+      "jsonName": "dev-404-page.json",
+      "internalComponentName": "ComponentDev404Page",
+      "context": {},
+      "id": "SitePage /dev-404-page/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "mediaType": "application/json",
+        "type": "SitePage",
+        "content": "{\"component\":\"/home/liz/Documents/gatsby-test/.cache/dev-404-page.js\",\"path\":\"/dev-404-page/\",\"componentChunkName\":\"page-component---cache-dev-404-page-js\",\"jsonName\":\"dev-404-page.json\",\"internalComponentName\":\"ComponentDev404Page\",\"context\":{}}",
+        "contentDigest": "b8bac3d5c2c9a5df7aa29a6e0182f0e2",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin component-page-creator": {
+      "resolve": "/home/liz/Documents/gatsby-test/node_modules/gatsby/dist/internal-plugins/component-page-creator",
+      "name": "component-page-creator",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "packageJson": {
+        "name": "component-page-creator",
+        "description": "An internal Gatsby plugin that creates pages from component files in src/pages",
+        "version": "1.0.0",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "id": "Plugin component-page-creator",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "7b9e6a1abe28414f53e08ad17162436a",
+        "mediaType": "application/json",
+        "content": "{\"resolve\":\"/home/liz/Documents/gatsby-test/node_modules/gatsby/dist/internal-plugins/component-page-creator\",\"name\":\"component-page-creator\",\"version\":\"1.0.0\",\"pluginOptions\":{\"plugins\":[]}}",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin internal-data-bridge": {
+      "resolve": "/home/liz/Documents/gatsby-test/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "name": "internal-data-bridge",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "packageJson": {
+        "name": "internal-data-bridge",
+        "description": "An internal Gatsby plugin which creates data nodes from internal data",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "id": "Plugin internal-data-bridge",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "5a664b0d216c6669821d24d2e34fc6e0",
+        "mediaType": "application/json",
+        "content": "{\"resolve\":\"/home/liz/Documents/gatsby-test/node_modules/gatsby/dist/internal-plugins/internal-data-bridge\",\"name\":\"internal-data-bridge\",\"version\":\"1.0.0\",\"pluginOptions\":{\"plugins\":[]}}",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin dev-404-page": {
+      "resolve": "/home/liz/Documents/gatsby-test/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "name": "dev-404-page",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "packageJson": {
+        "name": "dev-404-page",
+        "description": "Internal plugin to add a 404 page in development with helpful information",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "id": "Plugin dev-404-page",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "2c5561610d6172c5b3a60b168c5ea8c0",
+        "mediaType": "application/json",
+        "content": "{\"resolve\":\"/home/liz/Documents/gatsby-test/node_modules/gatsby/dist/internal-plugins/dev-404-page\",\"name\":\"dev-404-page\",\"version\":\"1.0.0\",\"pluginOptions\":{\"plugins\":[]}}",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin query-runner": {
+      "resolve": "/home/liz/Documents/gatsby-test/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "name": "query-runner",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "packageJson": {
+        "name": "query-runner",
+        "description": "Internal plugin for running queries",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "id": "Plugin query-runner",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "f6c995ba150d863fa23cfdcd3dae70ba",
+        "mediaType": "application/json",
+        "content": "{\"resolve\":\"/home/liz/Documents/gatsby-test/node_modules/gatsby/dist/internal-plugins/query-runner\",\"name\":\"query-runner\",\"version\":\"1.0.0\",\"pluginOptions\":{\"plugins\":[]}}",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin default-site-plugin": {
+      "resolve": "/home/liz/Documents/gatsby-test",
+      "name": "default-site-plugin",
+      "version": "d41d8cd98f00b204e9800998ecf8427e",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "packageJson": {
+        "name": "gatsby-test",
+        "description": "Getting familiar with Gatsby",
+        "version": "1.0.0",
+        "main": ".gatsby-context.js",
+        "keywords": [
+          "gatsby"
+        ],
+        "author": "Liz Phillips (illuminatedspace)",
+        "license": "ISC",
+        "dependencies": [
+          {
+            "name": "gatsby",
+            "version": "next"
+          },
+          {
+            "name": "gatsby-link",
+            "version": "next"
+          }
+        ],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "id": "Plugin default-site-plugin",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "ecfbc55fe8f927ae816d4142cc047f7e",
+        "mediaType": "application/json",
+        "content": "{\"resolve\":\"/home/liz/Documents/gatsby-test\",\"name\":\"default-site-plugin\",\"version\":\"d41d8cd98f00b204e9800998ecf8427e\",\"pluginOptions\":{\"plugins\":[]}}",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Site": {
+      "siteMetadata": {},
+      "port": "8000",
+      "host": "localhost",
+      "buildTime": "2017-06-20T16:17:44.897Z",
+      "id": "Site",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "efeeb496b67a6ca71377f283d716192e",
+        "content": "{\"siteMetadata\":{},\"port\":\"8000\",\"host\":\"localhost\",\"buildTime\":\"2017-06-20T16:17:44.897Z\"}",
+        "mediaType": "application/json",
+        "type": "Site",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /": {
+      "path": "/",
+      "component": "/home/liz/Documents/gatsby-test/src/pages/index.js",
+      "componentChunkName": "page-component---src-pages-index-js",
+      "jsonName": "index.json",
+      "internalComponentName": "ComponentIndex",
+      "context": {},
+      "id": "SitePage /",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "mediaType": "application/json",
+        "type": "SitePage",
+        "content": "{\"path\":\"/\",\"component\":\"/home/liz/Documents/gatsby-test/src/pages/index.js\",\"componentChunkName\":\"page-component---src-pages-index-js\",\"jsonName\":\"index.json\",\"internalComponentName\":\"ComponentIndex\",\"context\":{}}",
+        "contentDigest": "42214c89506ea4b431bf981a16588d86",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /my-second-gatsby-page/": {
+      "path": "/my-second-gatsby-page/",
+      "component": "/home/liz/Documents/gatsby-test/src/pages/my-second-gatsby-page.js",
+      "componentChunkName": "page-component---src-pages-my-second-gatsby-page-js",
+      "jsonName": "my-second-gatsby-page.json",
+      "internalComponentName": "ComponentMySecondGatsbyPage",
+      "context": {},
+      "id": "SitePage /my-second-gatsby-page/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "mediaType": "application/json",
+        "type": "SitePage",
+        "content": "{\"path\":\"/my-second-gatsby-page/\",\"component\":\"/home/liz/Documents/gatsby-test/src/pages/my-second-gatsby-page.js\",\"componentChunkName\":\"page-component---src-pages-my-second-gatsby-page-js\",\"jsonName\":\"my-second-gatsby-page.json\",\"internalComponentName\":\"ComponentMySecondGatsbyPage\",\"context\":{}}",
+        "contentDigest": "7af4f1f840460f418b1d13d1d86aea5b",
+        "owner": "internal-data-bridge"
+      }
+    }
+  },
+  "status": {
+    "plugins": {},
+    "PLUGINS_HASH": "7a38236edeb2098e564e2d0184a38795"
+  },
+  "pageDataDependencies": {
+    "nodes": {},
+    "connections": {
+      "SitePage": [
+        "/dev-404-page/"
+      ]
+    }
+  }
+}

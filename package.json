@@ -1,0 +1,23 @@
+{
+  "name": "gatsby-test",
+  "version": "1.0.0",
+  "description": "Getting familiar with Gatsby",
+  "main": ".gatsby-context.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./node_modules/.bin/gatsby develop"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://www.github.com/illuminatedspace/gatsby-test"
+  },
+  "keywords": [
+    "gatsby"
+  ],
+  "author": "Liz Phillips (illuminatedspace)",
+  "license": "ISC",
+  "dependencies": {
+    "gatsby": "next",
+    "gatsby-link": "next"
+  }
+}
