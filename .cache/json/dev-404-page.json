@@ -1,7 +1,7 @@
 {
     "data": {
         "allSitePage": {
-            "totalCount": 2,
+            "totalCount": 3,
             "edges": [
                 {
                     "node": {
@@ -11,6 +11,11 @@
                 {
                     "node": {
                         "path": "/my-second-gatsby-page/"
+                    }
+                },
+                {
+                    "node": {
+                        "path": "/counter/"
                     }
                 }
             ]

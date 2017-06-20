@@ -240,6 +240,24 @@
         "contentDigest": "7af4f1f840460f418b1d13d1d86aea5b",
         "owner": "internal-data-bridge"
       }
+    },
+    "SitePage /counter/": {
+      "path": "/counter/",
+      "component": "/home/liz/Documents/gatsby-test/src/pages/counter.js",
+      "componentChunkName": "page-component---src-pages-counter-js",
+      "jsonName": "counter.json",
+      "internalComponentName": "ComponentCounter",
+      "context": {},
+      "id": "SitePage /counter/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "mediaType": "application/json",
+        "type": "SitePage",
+        "content": "{\"path\":\"/counter/\",\"component\":\"/home/liz/Documents/gatsby-test/src/pages/counter.js\",\"componentChunkName\":\"page-component---src-pages-counter-js\",\"jsonName\":\"counter.json\",\"internalComponentName\":\"ComponentCounter\",\"context\":{}}",
+        "contentDigest": "273380f92d100fa64985aa286e16521a",
+        "owner": "internal-data-bridge"
+      }
     }
   },
   "status": {
